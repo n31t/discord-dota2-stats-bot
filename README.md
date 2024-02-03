@@ -16,8 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-Clone the repository to your local machine:
-Get your STRATZ API token on https://stratz.com/api
+Clone the repository to your local machine.
 
 ### Commands
 This Discord bot responds to commands that start with !neit. Here are the available commands:
