@@ -1,5 +1,5 @@
 
-# Project Title
+# Discord Bot
 
 This is a Discord bot written in Go. It uses the discordgo and godotenv libraries.
 
